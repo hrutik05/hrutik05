@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final-year Computer Science Engineering student specializing in Full-Stack Development (MERN) with strong<br>foundation in Java, Python, SQL, and OOP. Experienced in building responsive web applications, RESTful APIs, and<br>scalable backend systems. Proven internship and project experience in React.js, Node.js, Express.js, and MongoDB. Seeking for Software Developer / Full-Stack Engineer / Web Developer r
+Final-year Computer Science Engineering student specializing in Full-Stack Development (MERN) with strong foundation in Java, Python, SQL, and OOP. Experienced in building responsive web applications, RESTful APIs, and scalable backend systems. Proven internship and project experience in React.js, Node.js, Express.js, and MongoDB. Seeking for Software Developer
 
 
 ## 🌐 Socials:
